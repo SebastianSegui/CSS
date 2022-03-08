@@ -1,0 +1,49 @@
+@font-face{
+    src: url('../fonts/DS-DIGI.TTF');
+}
+
+#pane {
+    -fx-background-color: #000000;
+}
+
+#lblTexto {
+    -fx-font-family: "DS-Digital";
+    -fx-font-size: 20px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #000000;
+    -fx-border-width: 5px;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 10 10 10 10;
+}
+
+#btnHoja1 {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 10 2 10 2;
+}
+
+#btnHoja2 {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 2 10 2 10;
+}
+
+#btnHoja3 {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 2 10 2 10;
+}
+
+#btnHoja4 {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 10 2 10 2;
+}

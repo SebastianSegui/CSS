@@ -1,0 +1,34 @@
+@font-face{
+    src: url('../fonts/Heist-Regular.ttf');
+}
+
+#pane {
+    -fx-background-color: #8AFF8A;
+}
+
+#lblTexto {
+    -fx-font-family: "Heist";
+    -fx-font-size: 15px;
+    -fx-text-fill: #007500;
+    -fx-background-color: #8AFF8A;
+}
+
+#btnHoja1 {
+    -fx-text-fill: #007500;
+    -fx-background-color: #8AFF8A;
+}
+
+#btnHoja2 {
+    -fx-text-fill: #007500;
+    -fx-background-color: #8AFF8A;
+}
+
+#btnHoja3 {
+    -fx-text-fill: #007500;
+    -fx-background-color: #8AFF8A;
+}
+
+#btnHoja4 {
+    -fx-text-fill: #007500;
+    -fx-background-color: #8AFF8A;
+}
